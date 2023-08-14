@@ -1,6 +1,9 @@
 # Contact-List React App
 This is a simple React application that allows you to fetch and manage contacts using a dummy API. It demonstrates basic CRUD (Create, Read, Update, Delete) operations using the JSONPlaceholder API.
 
+## Demo
+https://contactlist-react-app.netlify.app/
+
 ## Features
 
 - Fetch and display users from the API: [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
