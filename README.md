@@ -1,5 +1,14 @@
 # Contact-List React App
+This is a simple React application that allows you to fetch and manage contacts using a dummy API. It demonstrates basic CRUD (Create, Read, Update, Delete) operations using the JSONPlaceholder API.
 
+## Features
+
+- Fetch and display users from the API: [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
+- Add a contact: Make a POST call to the API to simulate adding a contact to the server and save it in the React state.
+- Update a contact: Make a PUT call to the API to simulate updating a contact on the server.
+- Delete a contact: Make a DELETE call to the API to simulate deleting a contact from the server.
+
+Please note that these operations are simulated and won't actually modify the server data.
 
 ### Getting Started with Create React App
 
